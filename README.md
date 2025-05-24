@@ -63,9 +63,9 @@ J’ai conçu une page web dynamique utilisant Thymeleaf, affichant :
 
 ### Base de données dans phpMyAdmin (XAMPP)
 
-![Résultat console](screenshots/db.PNG)
+![Résultat console](screenshots/bd.PNG)
 
-![Résultat console](screenshots/résultat.PNG)
+![Résultat console](screenshots/resulat.PNG)
 
 
 ---
