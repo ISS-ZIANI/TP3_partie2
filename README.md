@@ -63,11 +63,11 @@ J’ai conçu une page web dynamique utilisant Thymeleaf, affichant :
 
 ### Base de données dans phpMyAdmin (XAMPP)
 
-![Base de données patients](screenshots/db.PNG)
+![Résultat console](screenshots/db.PNG)
 
 ### Résultat final – Liste des patients
 
-![Liste des patients dans l’application](screenshots/resultat.PNG)
+![Résultat console](screenshots/resultat.PNG)
 
 ---
 
